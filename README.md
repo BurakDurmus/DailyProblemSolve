@@ -28,7 +28,7 @@ View the problem statement and solution:
 Each directory contains a README.md file with the problem statement and a solution file in a specific programming language. For example:
 
 sh
-Kodu kopyala
+
 cat README.md
 cat solution.py
 Run the solution:
@@ -45,24 +45,24 @@ Click the "Fork" button at the top-right of this page.
 Clone your forked repository:
 
 sh
-Kodu kopyala
+
 git clone https://github.com/BurakDurmus/DailyProblemSolve.git
 cd DailyProblemSolve
 Create a new branch:
 
 sh
-Kodu kopyala
+
 git checkout -b my-feature-branch
 Make your changes and commit them:
 
 sh
-Kodu kopyala
+
 git add .
 git commit -m "Add my feature"
 Push your changes to your fork:
 
 sh
-Kodu kopyala
+
 git push origin my-feature-branch
 Create a pull request:
 Go to the original repository and click "New Pull Request" to submit your changes for review.
